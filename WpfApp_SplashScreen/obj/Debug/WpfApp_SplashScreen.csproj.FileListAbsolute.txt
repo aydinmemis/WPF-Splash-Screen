@@ -1,0 +1,16 @@
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\bin\Debug\WpfApp_SplashScreen.exe.config
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\bin\Debug\WpfApp_SplashScreen.exe
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\bin\Debug\WpfApp_SplashScreen.pdb
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.csprojResolveAssemblyReference.cache
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\DashBoard.g.cs
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\MainWindow.g.cs
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\App.g.cs
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen_MarkupCompile.cache
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen_MarkupCompile.lref
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\DashBoard.baml
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\MainWindow.baml
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.g.resources
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.Properties.Resources.resources
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.csproj.GenerateResource.Cache
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.exe
+c:\users\aydin\documents\visual studio 2015\Projects\WpfApp\WpfApp_SplashScreen\obj\Debug\WpfApp_SplashScreen.pdb
